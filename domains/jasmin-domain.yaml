@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: jasmin
+  description: The JASMIN data analysis facility
+  title: JASMIN
+  links:
+    - url: https://jasmin.ac.uk
+      title: JASMIN Home Page
+      icon: externalLink
+spec:
+  owner: group:default/developers

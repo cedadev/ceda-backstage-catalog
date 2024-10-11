@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: ceda-domains
+  description: The CEDA Backstage Domains
+spec:
+  targets:
+    - ./domains/ceda-archive-domain.yaml
+    - ./domains/jasmin-domain.yaml
