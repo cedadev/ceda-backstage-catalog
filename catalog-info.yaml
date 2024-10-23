@@ -2,7 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
   name: all-entities
-  description: The CEDA Backstage Domains
+  description: The CEDA Ecosystem
 spec:
   targets:
     - ./all-domains.yaml
+    - ./all-systems.yaml

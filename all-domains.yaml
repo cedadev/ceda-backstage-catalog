@@ -7,3 +7,4 @@ spec:
   targets:
     - ./domains/ceda-archive-domain.yaml
     - ./domains/jasmin-domain.yaml
+    - ./domaind/ceda-services.yaml

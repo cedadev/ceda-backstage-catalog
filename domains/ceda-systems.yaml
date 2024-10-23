@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: ceda-systems
+  description: Services operated for and or by CEDA
+  title: ceda-services
+spec:
+  owner: group:default/developers

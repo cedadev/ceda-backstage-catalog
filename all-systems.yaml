@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: ceda-services
+  description: The CEDA Backstage Services
+spec:
+  targets:
+    - ./systems/db6.yaml

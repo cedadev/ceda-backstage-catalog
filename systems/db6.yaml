@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: db6
+  description: CEDA's Postgres Cluster
+spec:
+  owner: user:default/asharwood
+  domain: domain:default/ceda-systems
+  type: service
