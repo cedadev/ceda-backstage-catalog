@@ -18,3 +18,4 @@ spec:
   type: service
   owner: user:default/asharwood
   lifecycle: production
+  system: system:default/db6
