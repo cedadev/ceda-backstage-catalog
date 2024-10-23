@@ -3,6 +3,6 @@ kind: Domain
 metadata:
   name: ceda-systems
   description: Services operated for and or by CEDA
-  title: ceda-services
+  title: CEDA Services
 spec:
   owner: group:default/developers
