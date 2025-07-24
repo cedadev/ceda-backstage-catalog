@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-  name: db6
+  name: db6 postgres database
   description: CEDA's Postgres Cluster System
 spec:
   owner: user:default/asharwood
